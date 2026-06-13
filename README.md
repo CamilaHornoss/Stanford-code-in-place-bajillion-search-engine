@@ -1,4 +1,5 @@
 # Bajillion Search Engine
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Stanford-Code%20in%20Place-8C1515?style=flat-square">
@@ -18,7 +19,6 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 
 </p>
-
 
 ## About the Project
 
@@ -58,7 +58,7 @@ For example:
     "apple": ["bbcnews/033.txt", "bbcnews/120.txt"],
     "stanford": ["bbcnews/066.txt", "bbcnews/217.txt"]
 }
-```
+````
 
 When the user searches for multiple words, the program finds the files that contain all of them.
 
@@ -106,11 +106,17 @@ stanford
 cheap apple products
 ```
 
-To stop the server, press:
+To stop the server, press **Ctrl + C** in the terminal.
 
-```text
-Ctrl + C
-```
+---
+
+## Web Interface Preview
+
+<p align="center">
+  <img src="bajillion-interface.png" alt="Bajillion Search Engine web interface" width="900">
+</p>
+
+---
 
 ## Project Structure
 
@@ -168,3 +174,6 @@ This project was completed as part of:
 It is based on the Bajillion Search Engine assignment and includes the optional web interface extension.
 
 ---
+
+```
+```
