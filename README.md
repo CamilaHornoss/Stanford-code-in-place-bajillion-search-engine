@@ -121,7 +121,7 @@ To stop the server, press **Ctrl + C** in the terminal.
 ## Project Structure
 
 ```text
-Assignment6/
+Stanford-code-in-place-bajillion-search-engine/
 ├── common_elements.py
 ├── searchengine.py
 ├── ethics.txt
