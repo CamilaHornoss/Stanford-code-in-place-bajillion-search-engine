@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -122,15 +122,19 @@ To stop the server, press **Ctrl + C** in the terminal.
 
 ```text
 Stanford-code-in-place-bajillion-search-engine/
-├── common_elements.py
-├── searchengine.py
-├── ethics.txt
-├── extension_server.py
-├── extension_client.html
-├── SimpleServer.py
-├── extension.py
+├── bbcnews/
 ├── small/
-└── bbcnews/
+├── README.md
+├── SimpleServer.py
+├── bajillion-interface.png
+├── common_elements.py
+├── ethics.txt
+├── extension.py
+├── extension_client.html
+├── extension_server.py
+├── searchengine.py
+├── test1.txt
+└── test2.txt
 ```
 
 ---
