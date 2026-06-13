@@ -177,6 +177,8 @@ This project was completed as part of:
 
 It is based on the Bajillion Search Engine assignment and includes the optional web interface extension.
 
+Project completed and fully functional.
+
 ---
 
 ```
